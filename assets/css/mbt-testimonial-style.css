@@ -1,0 +1,69 @@
+.mbt-container{
+  width: 100% !important;
+  margin: auto !important;
+  text-align: center !important;
+}
+.mbt-content{
+  width: 100% !important;
+}
+.mbt-author-img{
+  width: 110px !important;
+  height: 110px !important;
+  margin: auto !important;
+  padding: 10px !important;
+}
+.mbt-author-img img{
+  width: 110px !important;
+  height: 110px !important;
+  border-radius: 50% !important;
+}
+.mbt-author-name h2{
+    margin-top: 20px !important;
+    font-size: 18px !important;
+    color: #444 !important;
+    font-family: sans-serif !important;
+    font-weight: 600 !important;
+}
+.mbt-content-description p {
+    font-size: 14px !important;
+    color: #444 !important;
+    font-family: sans-serif !important;
+    line-height: 24px !important;
+    font-weight: 400 !important;
+    padding: 10px !important;
+}
+.mbt-author-destination h3{
+    font-size: 16px !important;
+    color: #444 !important;
+    font-family: sans-serif !important;
+    font-weight: 600 !important;
+    line-height: 18px !important;
+}
+.mbt-company-name h3{
+    font-size: 16px !important;
+    color: #444 !important;
+    font-family: sans-serif !important;
+    font-weight: 600 !important;
+    line-height: 20px !important;
+}
+.owl-nav {
+    padding: 10px !important;
+}
+button.owl-prev {
+    background: #ccc !important;
+    font-size: 25px !important;
+    line-height: 0px !important;
+    width: 35px !important;
+    height: 35px !important;
+    color: #444 !important;
+    margin-right: 5px !important;
+}
+button.owl-next {
+    background: #ccc !important;
+    font-size: 25px !important;
+    line-height: 0px !important;
+    width: 35px !important;
+    height: 35px !important;
+    color: #444 !important;
+    margin-left: 5px !important;
+}
